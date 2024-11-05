@@ -1,130 +1,437 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\",
+  "WorkspaceRootPath": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|c:\\users\\docente\\downloads\\moanso-capas\\moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|c:\\users\\melvin\\onedrive\\escritorio\\proyectofinal-moanso\\moanso-final-2\\moanso-final\\moanso-capas\\moanso-capas\\trabajoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\trabajoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\trabajoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\trabajoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\trabajoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\CircularProgressBar.2.8.0.16\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datrepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\contratomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\MOANSO-CAPAS.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\MOANSO-CAPAS.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\marcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\marcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\ingresorepuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entingresorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\repuestoordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\repuestoordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logevaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logevaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logmarcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\trabajointerno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacionexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\evaluacioninterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\jefemantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\jefemantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\salidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CapaLogica||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\pedidorepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\marcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\marcarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\datmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1C5AEF-A72C-455A-81C9-3C7A13062D93}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\mostrarfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entoti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entsalidarepuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entordenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capalogica\\logespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A37-2920-49D8-8819-8D95F4AD794F}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408101D-B0A3-461B-89CA-45A5FAE38736}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\bus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\bus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\bus.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\bus.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\jefemantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\jefemantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\CapaPresentacion.csproj|solutionrelative:moanso-capas\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOANSO-CAPAS\\Mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\CircularProgressBar.2.8.0.16\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\MOANSO-CAPAS.csproj|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C9E9331-388D-4524-8DA9-861F53BE1D83}|MOANSO-CAPAS\\MOANSO-CAPAS.csproj|solutionrelative:moanso-capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOANSO-CAPAS\\Mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,111 +441,1267 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cargar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Cargar.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MOANSO-CAPAS\\Cargar.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "LogRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogRepuesto.cs",
+              "RelativeToolTip": "CapaLogica\\LogRepuesto.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwHkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T02:53:11.29Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-21T14:43:03.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Form1.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "TrabajoExterno.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\TrabajoExterno.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\TrabajoExterno.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwK4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:30:04.975Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-30T01:08:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatOTE.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOTE.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatOTE.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOTE.cs",
+              "RelativeToolTip": "CapaDatos\\DatOTE.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:17:24.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntEvaluacionExterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEvaluacionExterna.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntEvaluacionExterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEvaluacionExterna.cs",
+              "RelativeToolTip": "CapaEntidad\\EntEvaluacionExterna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:14:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogProveedor.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogProveedor.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogProveedor.cs",
+              "RelativeToolTip": "CapaLogica\\LogProveedor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA4wFQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:48:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntProveedor.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntProveedor.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntProveedor.cs",
+              "RelativeToolTip": "CapaEntidad\\EntProveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:46:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntRepuesto.cs",
+              "RelativeToolTip": "CapaEntidad\\EntRepuesto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:42:27.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Form1.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Title": "LogOTE.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOTE.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogOTE.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOTE.cs",
+              "RelativeToolTip": "CapaLogica\\LogOTE.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:20:06.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T23:18:26.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatRepuesto.cs",
+              "RelativeToolTip": "CapaDatos\\DatRepuesto.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:42:00.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TrabajoExterno.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs",
               "RelativeDocumentMoniker": "MOANSO-CAPAS\\TrabajoExterno.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoExterno.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T00:05:36.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SISTEMA.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SISTEMA.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MOANSO-CAPAS\\SISTEMA.cs [Dise\u00F1o]",
+              "DocumentIndex": 9,
+              "Title": "Repuestos.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Repuestos.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Repuestos.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAALYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:33:14.121Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-22T21:41:14.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SISTEMA.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SISTEMA.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\SISTEMA.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Repuestos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Repuestos.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:12:35.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:38:55.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cargar.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Cargar.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Cargar.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAADwvxMAAAAdAAAA",
+              "DocumentIndex": 12,
+              "Title": "EvaluacionExterna.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:07:26.693Z"
+              "WhenOpened": "2024-10-23T00:21:33.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "ContratoMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:26:22.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IngresoRepuestos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:03:37.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatIngresoRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatIngresoRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatIngresoRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatIngresoRepuesto.cs",
+              "RelativeToolTip": "CapaDatos\\DatIngresoRepuesto.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAPAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:30:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogIngresoRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogIngresoRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogIngresoRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogIngresoRepuesto.cs",
+              "RelativeToolTip": "CapaLogica\\LogIngresoRepuesto.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:31:36.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatEvaluacionInterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEvaluacionInterna.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatEvaluacionInterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEvaluacionInterna.cs",
+              "RelativeToolTip": "CapaDatos\\DatEvaluacionInterna.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAAADQBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:46:50.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatEvaluacionExterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEvaluacionExterna.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatEvaluacionExterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEvaluacionExterna.cs",
+              "RelativeToolTip": "CapaDatos\\DatEvaluacionExterna.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAAwP8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:15:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContratoMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwHIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:30:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Categoria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs",
               "RelativeDocumentMoniker": "MOANSO-CAPAS\\Categoria.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T22:49:45.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
+              "Title": "DatContrato.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatContrato.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatContrato.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatContrato.cs",
+              "RelativeToolTip": "CapaDatos\\DatContrato.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:14:19.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogContrato.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogContrato.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogContrato.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogContrato.cs",
+              "RelativeToolTip": "CapaLogica\\LogContrato.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwHAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:15:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EntContrato.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntContrato.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntContrato.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntContrato.cs",
+              "RelativeToolTip": "CapaEntidad\\EntContrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:01:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Proveedor.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:56:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatProveedor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatProveedor.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatProveedor.cs",
+              "RelativeToolTip": "CapaDatos\\DatProveedor.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:45:55.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Proveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:41:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MECANICOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MECANICOS.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MECANICOS.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MECANICOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MECANICOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:39:05.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MarcaRepuesto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MarcaRepuesto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MarcaRepuesto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:55:03.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Especialidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Especialidad.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Especialidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Especialidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:49:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Bus.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Bus.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:37:54.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Categoria.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:14:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LogOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOrdenCompra.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOrdenCompra.cs",
+              "RelativeToolTip": "CapaLogica\\LogOrdenCompra.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:02:19.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\OrdenCompra.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:23:10.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrdenCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:36:27.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DatOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOrdenCompra.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOrdenCompra.cs",
+              "RelativeToolTip": "CapaDatos\\DatOrdenCompra.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAANMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:01:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EntOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOrdenCompra.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOrdenCompra.cs",
+              "RelativeToolTip": "CapaEntidad\\EntOrdenCompra.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:01:33.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatMarcaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatMarcaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatMarcaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatMarcaRepuesto.cs",
+              "RelativeToolTip": "CapaDatos\\DatMarcaRepuesto.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:17:45.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DatEspecialidad.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEspecialidad.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatEspecialidad.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatEspecialidad.cs",
+              "RelativeToolTip": "CapaDatos\\DatEspecialidad.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAOMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:45:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EvaluacionInterna.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:17:22.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DatCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatCategoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatCategoria.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatCategoria.cs",
+              "RelativeToolTip": "CapaDatos\\DatCategoria.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAjwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:03:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DatBus.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatBus.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatBus.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatBus.cs",
+              "RelativeToolTip": "CapaDatos\\DatBus.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAEBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:47:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DatFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatFactura.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatFactura.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatFactura.cs",
+              "RelativeToolTip": "CapaDatos\\DatFactura.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAN8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:12:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IngresoRepuestos.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\IngresoRepuestos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:00:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EntMarcaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntMarcaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntMarcaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntMarcaRepuesto.cs",
+              "RelativeToolTip": "CapaEntidad\\EntMarcaRepuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:18:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EntIngresoRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntIngresoRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntIngresoRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntIngresoRepuesto.cs",
+              "RelativeToolTip": "CapaEntidad\\EntIngresoRepuesto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:31:10.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EntFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntFactura.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntFactura.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntFactura.cs",
+              "RelativeToolTip": "CapaEntidad\\EntFactura.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:12:44.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EntEvaluacionInterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEvaluacionInterna.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntEvaluacionInterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEvaluacionInterna.cs",
+              "RelativeToolTip": "CapaEntidad\\EntEvaluacionInterna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:44:35.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EntEspecialidad.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEspecialidad.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntEspecialidad.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntEspecialidad.cs",
+              "RelativeToolTip": "CapaEntidad\\EntEspecialidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:47:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RepuestoOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\RepuestoOrdenCompra.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\RepuestoOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\RepuestoOrdenCompra.cs",
+              "RelativeToolTip": "CapaEntidad\\RepuestoOrdenCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:56:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LogEvaluacionInterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEvaluacionInterna.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogEvaluacionInterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEvaluacionInterna.cs",
+              "RelativeToolTip": "CapaLogica\\LogEvaluacionInterna.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAIQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:07:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LogEvaluacionExterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEvaluacionExterna.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogEvaluacionExterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEvaluacionExterna.cs",
+              "RelativeToolTip": "CapaLogica\\LogEvaluacionExterna.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:25:08.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LogMarcaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogMarcaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogMarcaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogMarcaRepuesto.cs",
+              "RelativeToolTip": "CapaLogica\\LogMarcaRepuesto.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:18:35.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LogMecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogMecanico.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogMecanico.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogMecanico.cs",
+              "RelativeToolTip": "CapaLogica\\LogMecanico.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA9wGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:12:16.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LogOrdenPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOrdenPedido.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogOrdenPedido.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOrdenPedido.cs",
+              "RelativeToolTip": "CapaLogica\\LogOrdenPedido.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:14:42.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LogSalidaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogSalidaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogSalidaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogSalidaRepuesto.cs",
+              "RelativeToolTip": "CapaLogica\\LogSalidaRepuesto.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwGsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:54:13.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TrabajoInterno.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\TrabajoInterno.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\TrabajoInterno.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAAACgBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:32:37.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TrabajoInterno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\TrabajoInterno.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:53:54.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EvaluacionExterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\EvaluacionExterna.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAmwNoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:54:22.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LogOTI.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOTI.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogOTI.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogOTI.cs",
+              "RelativeToolTip": "CapaLogica\\LogOTI.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:18:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DatOTI.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOTI.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatOTI.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOTI.cs",
+              "RelativeToolTip": "CapaDatos\\DatOTI.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAmwE0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:17:08.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EvaluacionInterna.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\EvaluacionInterna.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAwAsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:12:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "JefeMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\JefeMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\JefeMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:45:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MostrarFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MostrarFactura.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:20:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SalidaRepuesto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:33:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SalidaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\SalidaRepuesto.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAOMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:42:23.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CapaLogica",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\CapaLogica.csproj",
+              "RelativeDocumentMoniker": "CapaLogica\\CapaLogica.csproj",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\CapaLogica.csproj",
+              "RelativeToolTip": "CapaLogica\\CapaLogica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T05:23:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\packages.config",
+              "RelativeDocumentMoniker": "CapaLogica\\packages.config",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\packages.config",
+              "RelativeToolTip": "CapaLogica\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T00:48:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DatSalidaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatSalidaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatSalidaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatSalidaRepuesto.cs",
+              "RelativeToolTip": "CapaDatos\\DatSalidaRepuesto.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAqwO8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:53:08.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PedidoRepuesto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:12:07.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PedidoRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\PedidoRepuesto.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAQwGsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:24:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DatOrdenPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOrdenPedido.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatOrdenPedido.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatOrdenPedido.cs",
+              "RelativeToolTip": "CapaDatos\\DatOrdenPedido.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:14:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:30:04.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Factura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Factura.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:52:15.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Cargar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Cargar.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:53:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SISTEMA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SISTEMA.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\Downloads\\MOANSO-FINAL\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:33:14.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "MECANICOS.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MECANICOS.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MECANICOS.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MECANICOS.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\MECANICOS.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:40:05.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "MarcaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\MarcaRepuesto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:24:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Bus.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Bus.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:30:35.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:20:06.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\packages.config",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\packages.config",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\packages.config",
+              "RelativeToolTip": "MOANSO-CAPAS\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-04T00:08:32.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DatMecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatMecanico.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DatMecanico.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\DatMecanico.cs",
+              "RelativeToolTip": "CapaDatos\\DatMecanico.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAwwA8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:11:25.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:25:14.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LogBus.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogBus.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogBus.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogBus.cs",
+              "RelativeToolTip": "CapaLogica\\LogBus.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwFQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:24:53.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MostrarFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MostrarFactura.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\MostrarFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:29:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "LogFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogFactura.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogFactura.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogFactura.cs",
+              "RelativeToolTip": "CapaLogica\\LogFactura.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:13:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Factura.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Factura.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:18:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Cargar.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Cargar.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Cargar.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Cargar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:07:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Especialidad.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Especialidad.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Especialidad.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:04:01.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EntOTI.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOTI.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntOTI.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOTI.cs",
+              "RelativeToolTip": "CapaEntidad\\EntOTI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:17:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "EntOTE.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOTE.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntOTE.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOTE.cs",
+              "RelativeToolTip": "CapaEntidad\\EntOTE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:17:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "EntSalidaRepuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntSalidaRepuesto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntSalidaRepuesto.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntSalidaRepuesto.cs",
+              "RelativeToolTip": "CapaEntidad\\EntSalidaRepuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:53:38.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "EntOrdenPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOrdenPedido.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntOrdenPedido.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntOrdenPedido.cs",
+              "RelativeToolTip": "CapaEntidad\\EntOrdenPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:14:26.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "EntBus.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntBus.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntBus.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntBus.cs",
+              "RelativeToolTip": "CapaEntidad\\EntBus.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:18:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LogCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogCategoria.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogCategoria.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogCategoria.cs",
+              "RelativeToolTip": "CapaLogica\\LogCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:03:45.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "EntMecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntMecanico.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntMecanico.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntMecanico.cs",
+              "RelativeToolTip": "CapaEntidad\\EntMecanico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:11:52.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "LogEspecialidad.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEspecialidad.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\LogEspecialidad.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaLogica\\LogEspecialidad.cs",
+              "RelativeToolTip": "CapaLogica\\LogEspecialidad.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:46:00.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "EntCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntCategoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\EntCategoria.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\CapaEntidad\\EntCategoria.cs",
+              "RelativeToolTip": "CapaEntidad\\EntCategoria.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:03:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\App.config",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\App.config",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\App.config",
+              "RelativeToolTip": "MOANSO-CAPAS\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T22:52:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Bus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.Designer.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Bus.Designer.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.Designer.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Bus.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:53:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Bus.resx",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.resx",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Bus.resx",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Bus.resx",
+              "RelativeToolTip": "MOANSO-CAPAS\\Bus.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-19T21:54:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Program.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Program.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Program.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:35:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "JefeMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\JefeMantenimiento.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAADgv6gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:45:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "SISTEMA.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SISTEMA.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\SISTEMA.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\SISTEMA.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAArwPoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:12:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Mecanico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:28:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs",
+              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Mecanico.cs",
+              "RelativeToolTip": "MOANSO-CAPAS\\Mecanico.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAEwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:18:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
               "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt",
               "RelativeDocumentMoniker": "packages\\CircularProgressBar.2.8.0.16\\readme.txt",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt",
+              "ToolTip": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\packages\\CircularProgressBar.2.8.0.16\\readme.txt",
               "RelativeToolTip": "packages\\CircularProgressBar.2.8.0.16\\readme.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -246,253 +1709,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Program.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Program.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Program.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:35:36.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EvaluacionInterna.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionInterna.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionInterna.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:17:22.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EvaluacionExterna.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\EvaluacionExterna.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\EvaluacionExterna.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:21:33.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PedidoRepuesto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\PedidoRepuesto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\PedidoRepuesto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:12:07.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TrabajoInterno.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\TrabajoInterno.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\TrabajoInterno.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:53:54.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SalidaRepuesto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:33:57.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IngresoRepuestos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\IngresoRepuestos.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\IngresoRepuestos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:03:37.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrdenCompra.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\OrdenCompra.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\OrdenCompra.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:36:27.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ContratoMantenimiento.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:26:22.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Proveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:41:41.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MostrarFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MostrarFactura.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:20:52.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Factura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Factura.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:52:15.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Repuestos.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Repuestos.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Repuestos.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAArwB0AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:41:14.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Repuestos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Repuestos.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Repuestos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:38:55.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Vehiculos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Vehiculos.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Vehiculos.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Vehiculos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Vehiculos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:37:54.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SalidaRepuesto.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\SalidaRepuesto.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:42:23.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ContratoMantenimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\ContratoMantenimiento.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:30:07.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Factura.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Factura.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Factura.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:18:05.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MostrarFactura.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\MostrarFactura.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\MostrarFactura.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\MostrarFactura.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:29:51.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 106,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Melvin\\OneDrive\\Escritorio\\proyectofinal-moanso\\MOANSO-FINAL-2\\MOANSO-FINAL\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs",
               "RelativeDocumentMoniker": "MOANSO-CAPAS\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\User\\source\\repos\\MOANSO-CAPAS\\MOANSO-CAPAS\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:11:07.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
-              "RelativeDocumentMoniker": "MOANSO-CAPAS\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\MOANSO-CAPAS\\Proveedor.cs",
-              "RelativeToolTip": "MOANSO-CAPAS\\Proveedor.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:56:14.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\CapaEntidad\\Class1.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Class1.cs",
-              "ToolTip": "C:\\Users\\Docente\\Downloads\\MOANSO-CAPAS\\CapaEntidad\\Class1.cs",
-              "RelativeToolTip": "CapaEntidad\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:18:53.874Z"
             }
           ]
         }
